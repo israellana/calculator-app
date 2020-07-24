@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/israellana/color-simulator/master/Screenshots/screenshot1.PNG" alt="alt text" >
+<img src="https://raw.githubusercontent.com/israellana/calculator-app/master/screenshot1.PNG" alt="alt text" >
 
 ![](https://img.shields.io/badge/Made%20in-JavaScript%20Course-blue)
 
