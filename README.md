@@ -68,8 +68,3 @@ Contributions are what make the open source community such an amazing place to b
 Israel Lana - [Linkedin](https://www.linkedin.com/in/israel-lana-0ab3a512a/) - [E-mail](mailto:israellana_@hotmail.com)
 
 Project Link: https://github.com/israellana/calculator-app
-
-### Authors
-
-- Glaucio Daniel Souza Santos
-- João Rangel
