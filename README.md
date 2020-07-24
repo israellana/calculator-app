@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/israellana/color-simulator/master/Screenshots/screenshot1.PNG" alt="alt text" >
 
-![](https://img.shields.io/badge/Made%20in-IGTI%20Bootcamp-blue)
+![](https://img.shields.io/badge/Made%20in-JavaScript%20Course-blue)
 
 </div>
 
@@ -26,8 +26,7 @@
 ### Screenshot
 
 <div align="center">
-  ![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
-<img align="center" src="https://raw.githubusercontent.com/israellana/color-simulator/master/Screenshots/screenshot2.PNG" alt="alt text" > 
+<img align="center" src="https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33" alt="alt text" > 
 </div>
 
 <a name="built"></a>
@@ -50,7 +49,7 @@ The project was developed using the following technologies:
 <a name="test"></a>
 ### Test yourself
 
-The app is in GitHub Pages, you can test it now. [HERE](https://israellana.github.io/color-simulator/)
+The app is in GitHub Pages, you can test it now. [HERE](https://israellana.github.io/calculator-app/)
 
 <a name="contribute"></a>
 ### Contributing
@@ -68,7 +67,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Israel Lana - [Linkedin](https://www.linkedin.com/in/israel-lana-0ab3a512a/) - [E-mail](mailto:israellana_@hotmail.com)
 
-Project Link: https://github.com/israellana/color-simulator
+Project Link: https://github.com/israellana/calculator-app
 
 ### Authors
 
